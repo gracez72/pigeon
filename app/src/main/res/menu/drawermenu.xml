@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/db"
+    android:title="Dashboard"
+    android:icon="@drawable/ic_apps_black_24dp"/>
+
+<item android:id="@+id/saved"
+        android:title="Saved"
+    android:icon="@drawable/ic_star_border_black_24dp"/>
+<item android:id="@+id/popular"
+    android:icon="@drawable/ic_group_black_24dp"
+    android:title="Popular"/>
+<item android:id="@+id/recent"
+    android:icon="@drawable/ic_sort_black_24dp"
+        android:title="Recent"/>
+<item android:id="@+id/similar"
+    android:icon="@drawable/ic_developer_board_black_24dp"
+        android:title="Similar"/>
+<item android:id="@+id/Search"
+    android:icon="@drawable/ic_search_black_24dp"
+        android:title="Search"/>
+    <item android:id="@+id/logout"
+        android:icon="@drawable/ic_power_black_24dp"
+        android:title="Logout"/>
+</menu>
