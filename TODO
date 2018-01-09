@@ -5,9 +5,12 @@
 5. Loading Lines
 6. Themes
 
+BACK-END TODO:
+1. User datatype
+
 FLOW:
 1. Login page
-2. Home (cardview) (SWIPE RIGHT -> GEN INFO ) (SWIPE LEFT -> TOOLBAR W/ MESSAGES/NOTIFICATIONS)
+2. Home (cardview) (SWIPE RIGHT -> GEN INFO ) (SWIPE LEFT -> TOOLBAR W/ MESSAGES/NOTIFICATIONS) - GRACE
 	a. Diagnose (swipe)
 		A. 
 	b. Trends
@@ -23,7 +26,7 @@ FLOW:
 
 	e. Suggestions
 3. General Info
-	a. Weather, Location
+	a. Weather, Location - VIVIAN
 3. ToolBar
 	a. Settings
 	b. Messages
