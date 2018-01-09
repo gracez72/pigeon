@@ -1,0 +1,16 @@
+1. Passwords and username database
+2. Animations in Android Studio
+3. Launching the app launches a client (multithreaded)
+4. Scrolling view
+
+FLOW:
+1. Login page
+2. Home (cardview)
+	a. Diagnose (swipe)
+		A. 
+	b. Trends
+	c. Contact/emergency
+	d. Online resources
+		A. Google Custom Search API
+
+	e. Stats 
