@@ -2,9 +2,9 @@
 
 Sample Screenshots
 
-| Login page  | Home page |
+| **Login page**  | **Home page** |
 | ------------- | ------------- |
-| ![Login page](C:\Users\Grace\Downloads\Screenshot_20180905-100307_Pigeon.jpg "Login Page" ) | ![Homepage](C:\Users\Grace\Downloads\Screenshot_20180905-100241_Pigeon.jpg "Homepage")|
-| **Side bar** | **Popup** |
-| ![Side bar](C:\Users\Grace\Downloads\Screenshot_20180905-100329_Pigeon.jpg) | ![Popup](C:\Users\Grace\Downloads\Screenshot_20180905-100314_Pigeon (1).jpg) |
+| ![Login page](https://raw.githubusercontent.com/gracez72/pigeon/master/screenshots/login_page.jpg) | ![Homepage](https://raw.githubusercontent.com/gracez72/pigeon/master/screenshots/home_page.jpg)|
+| **Side bar**  | **Popup**     |
+| ![Side bar](https://raw.githubusercontent.com/gracez72/pigeon/master/screenshots/tab_bar.jpg) | ![Popup](https://raw.githubusercontent.com/gracez72/pigeon/master/screenshots/pop_up.jpg) |
 
